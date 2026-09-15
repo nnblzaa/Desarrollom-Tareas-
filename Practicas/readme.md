@@ -62,7 +62,12 @@ void loop() {
 Video del funcionamiento
 Ver vídeo en YouTube
 
-Evidencias de armado
+https://github.com/user-attachments/assets/cb9db4dd-7c62-4ab1-9a5e-1d660368e3f8
+
+
+
+Evidencias de armado<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/367ac599-865b-496a-8279-66a7bd375110" />
+
 Evidencia de armado arduino
 Reporte
 Reporte de resultados
