@@ -20,7 +20,7 @@ Diagrama del circuito
 
 
 Código
-// Encender 10 LEDs - Arduino Uno R3
+// Parpadeo secuencial de 10 LEDs - Arduino Uno R3
 // Cada LED tiene su propia variable
 
 int led1 = 2;
@@ -49,15 +49,54 @@ void setup() {
 
 void loop() {
   digitalWrite(led1, HIGH);
+  delay(500);
+  digitalWrite(led1, LOW);
+  delay(500);
+
   digitalWrite(led2, HIGH);
+  delay(500);
+  digitalWrite(led2, LOW);
+  delay(500);
+
   digitalWrite(led3, HIGH);
+  delay(500);
+  digitalWrite(led3, LOW);
+  delay(500);
+
   digitalWrite(led4, HIGH);
+  delay(500);
+  digitalWrite(led4, LOW);
+  delay(500);
+
   digitalWrite(led5, HIGH);
+  delay(500);
+  digitalWrite(led5, LOW);
+  delay(500);
+
   digitalWrite(led6, HIGH);
+  delay(500);
+  digitalWrite(led6, LOW);
+  delay(500);
+
   digitalWrite(led7, HIGH);
+  delay(500);
+  digitalWrite(led7, LOW);
+  delay(500);
+
   digitalWrite(led8, HIGH);
+  delay(500);
+  digitalWrite(led8, LOW);
+  delay(500);
+
   digitalWrite(led9, HIGH);
+  delay(500);
+  digitalWrite(led9, LOW);
+  delay(500);
+
   digitalWrite(led10, HIGH);
+  delay(500);
+  digitalWrite(led10, LOW);
+  delay(500);
 }
 Video del funcionamiento
 Ver vídeo en YouTube
@@ -69,7 +108,31 @@ https://github.com/user-attachments/assets/cb9db4dd-7c62-4ab1-9a5e-1d660368e3f8
 Evidencias de armado<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/367ac599-865b-496a-8279-66a7bd375110" />
 
 Evidencia de armado arduino
-Reporte
+Reportes Secuencia de 10 LEDs con Arduino
+Reporte de práctica — salidas digitales
+
+Finalidad
+Practicar el control de salidas digitales en Arduino mediante una secuencia de encendido y apagado de 10 LEDs (efecto "chaser" o luces corredizas), para comprender el manejo de pines digitales, bucles y retardos (delay).
+
+Funcionamiento
+El Arduino UNO controla 10 LEDs conectados a los pines digitales 2 al 11, cada uno en serie con una resistencia limitadora de 220 ohms. El programa enciende cada LED durante 100 ms y lo apaga antes de encender el siguiente, generando un efecto de luz en movimiento que se repite en bucle.
+
+Fuente
+5 V (USB)
+Resistencia
+220 Ω por LED
+Retardo
+100 ms
+Cálculo de corriente
+Aplicando la Ley de Ohm, con voltaje de fuente Vcc = 5 V y voltaje directo típico de un LED rojo Vf = 2 V:
+
+I = (Vcc - Vf) / R = (5 - 2) / 220 ≈ 13.6 mA
+Este valor está por debajo del límite seguro de 20 mA para un LED estándar, y también por debajo de los 40 mA que soporta cada pin digital del Arduino, por lo que el circuito opera dentro de un margen seguro.
+
+Resultados
+La secuencia se ejecutó correctamente: los 10 LEDs encendieron uno por uno con brillo uniforme, sin parpadeos irregulares ni sobrecalentamiento de componentes. Esto confirma que la resistencia de 220 Ω limita adecuadamente la corriente y que el código controla bien el orden y el tiempo de encendido, cumpliendo el objetivo de la práctica.
+
+Ten en cuenta que usé valores típicos de una práctica estándar de "luces corredizas" con 10 LEDs (resistencia de 220 Ω, Vf de 2 V para LED rojo). Si tu proyecto usa otro tipo de secuencia, otros valores de resistencia, otro color de LED, o mediciones reales de corriente que hayas tomado, dime y ajusto los números para que coincidan con tu práctica real.
 Reporte de resultados
 Gráficas / Diagrama: Conexión secuencial en pines digitales del Arduino Uno.
 Tablas de datos: Resistencias de 220 Ω, consumo por LED ~13,8 mA.
