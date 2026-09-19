@@ -21,10 +21,10 @@ En esta práctica de la materia Desarrollo Sustentable con Automatización, se d
 ## Diagrama de Make / Imágenes de mensajes chatbot ecosistema
 Diagrama del flujo en Make.com:
 
-<img width="500" height="300" alt="Diagrama del flujo en Make.com" src="https://github.com/user-attachments/assets/fd89b8d8-1a3b-46a1-8f07-919e56ad69d5" />
+< />
 
 <img width="500" height="300" alt="Ejemplo de conversación con el bot" src="https://github.com/user-attachments/assets/3e72f1b4-0519-4bbf-b0bc-0a35a65b2b5e" />
 
 ## Video del funcionamiento
-[Ver video en YouTube](https://youtube.com/shorts/8USO-tsQn1E)
+https://youtube.com/shorts/QYam1RDmyNs?si=ewVw5KjNw08IA3Wg
 
