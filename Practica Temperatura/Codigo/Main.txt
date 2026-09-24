@@ -1,0 +1,41 @@
+#include <DHT.h>
+
+#define DHTPIN 2
+#define DHTTYPE DHT11
+#define LEDPIN 13
+
+const float LIMITE = 25.0; // temperatura límite en °C
+
+DHT dht(DHTPIN, DHTTYPE);
+
+void setup() {
+  Serial.begin(9600);
+  dht.begin();
+  pinMode(LEDPIN, OUTPUT);
+  digitalWrite(LEDPIN, LOW); // LED apagado al iniciar
+}
+
+void loop() {
+  delay(2000); // el DHT11 necesita al menos 2 seg entre lecturas
+
+  float humedad = dht.readHumidity();
+  float temperatura = dht.readTemperature();
+
+  if (isnan(humedad) || isnan(temperatura)) {
+    Serial.println("Error al leer el sensor DHT11");
+    return;
+  }
+
+  if (temperatura > LIMITE) {
+    digitalWrite(LEDPIN, HIGH); // más de 25 °C: enciende
+  } else {
+    digitalWrite(LEDPIN, LOW);  // 25 °C o menos: apaga
+  }
+
+  Serial.print("Humedad: ");
+  Serial.print(humedad);
+  Serial.print(" % | Temperatura: ");
+  Serial.print(temperatura);
+  Serial.print(" *C | LED: ");
+  Serial.println(temperatura > LIMITE ? "ENCENDIDO" : "APAGADO");
+}
