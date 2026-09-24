@@ -1,4 +1,4 @@
-<img width="739" height="1600" alt="Arduino 1 1" src="https://github.com/user-attachments/assets/fd804af7-9b21-481c-828f-9c04bc2ba60f" />
+
 # Nombre del proyecto
 DTH11, sensor de temperatura
 ## Descripción
