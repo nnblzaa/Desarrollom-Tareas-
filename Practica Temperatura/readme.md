@@ -7,7 +7,7 @@ Usar el sensor de temperatura y arduino para medir la temperatura ambiental, al 
 Construir un sistema que encienda un LED cuando la temperatura supere los 25 °C y lo apague cuando sea igual o menor, usando un Arduino y un sensor DHT11. Con esto se practica el ciclo básico de la automatización: medir, decidir y actuar
 
 ## Resultados
-[Práctica Control de LED por temperatura con Arduino y DHT11 (1).pdf](./Resultados/readme.txt)
+[Práctica Control de LED por temperatura con Arduino y DHT11 (1).pdf](./Resultados/Práctica Control de LED por temperatura con Arduino y DHT11 (1).pdf)
 
 
 ## Material y herramientas utilizadas
