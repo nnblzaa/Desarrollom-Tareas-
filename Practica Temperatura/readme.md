@@ -11,5 +11,7 @@ Arduino UNO (o compatible) Sensor DHT11 LED Resistencia 220 Î© Resistencia 10 kÎ
 ## Imagen
 <img width="739" height="1600" alt="Arduino 1 1" src="https://github.com/user-attachments/assets/fd804af7-9b21-481c-828f-9c04bc2ba60f" /> 
 
+##Codigo
+[Main.txt](./Codigo/Main.txt)
 ## Video del funcionamiento
 [Ver video en YouTube](https://youtube.com/shorts/QrUZ4BKe4Zs?si=ynsuvxWay_65BeWf)
