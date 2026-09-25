@@ -9,6 +9,7 @@ Construir un sistema que encienda un LED cuando la temperatura supere los 25 °C
 Arduino UNO (o compatible) Sensor DHT11 LED Resistencia 220 Ω Resistencia 10 kΩ Protoboard Cables jumper Cantidad 1 1 Uso Controlador del sistema Mide temperatura y humedad 1 1 1 Indicador de temperatura alta Limita la corriente del LED Pull-up del DHT11 (solo si es el sensor suelto de 4 patas) 1 Varios Cable USB##Codigo
 [Main.txt](./Codigo/Main.txt)
 ## Imagen
-<img width="739" height="1600" alt="Arduino 1 1" src="https://github.com/user-attachments/assets/fd804af7-9b21-481c-828f-9c04bc2ba60f" />
+<img width="739" height="1600" alt="Arduino 1 1" src="https://github.com/user-attachments/assets/fd804af7-9b21-481c-828f-9c04bc2ba60f" /> 
+
 ## Video del funcionamiento
 [Ver video en YouTube](https://youtube.com/shorts/QrUZ4BKe4Zs?si=ynsuvxWay_65BeWf)
