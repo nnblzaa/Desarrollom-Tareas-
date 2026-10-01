@@ -16,4 +16,4 @@ Proyecto de un vehículo autónomo/controlado alimentado por energía solar a tr
 
 
  ## Codigo
-[main.txt](./Codigo/main.txt)
+[main.txt](./Código/main.txt)
