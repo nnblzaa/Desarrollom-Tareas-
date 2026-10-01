@@ -5,7 +5,7 @@ El *Carro Solar* es un prototipo diseñado para demostrar la eficiencia y aplica
 ## Objetivos de aprendizaje
 Proyecto de un vehículo autónomo/controlado alimentado por energía solar a través de paneles fotovoltaicos. Este repositorio contiene la documentación, diagramas, esquemáticos, enlaces a medios multimedia y el código fuente utilizado para la gestión de carga y control de motores.
 ## Resultados
-(https://github.com/user-attachments/files/32935313/Informe_Tecnico_Carro_Robot_Solar_2WD.pdf)
+https://github.com/user-attachments/files/32935313/Informe_Tecnico_Carro_Robot_Solar_2WD.pdf
 
 
 ## Material y herramientas utilizadas
