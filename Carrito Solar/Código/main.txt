@@ -1,1 +1,51 @@
-
+{
+  "project_name": "Carro Robot Solar 2WD",
+  "chassis": {
+    "material": "Acrílico transparente",
+    "configuration": "Diferencial de 2 ruedas con rueda loca de apoyo",
+    "mounting_holes": "Compatibles con placas de control (Arduino, ESP32), controladores de motor L298N y sensores"
+  },
+  "power_system": {
+    "type": "Energía Solar Fotovoltaica",
+    "components": [
+      {
+        "item": "Panel Solar Single-Glass",
+        "position": "Parte posterior superior",
+        "function": "Suministro eléctrico para los motores DC"
+      }
+    ]
+  },
+  "drivetrain": {
+    "drive_type": "2WD (Two-Wheel Drive)",
+    "components": [
+      {
+        "item": "Motorreductor TT (Amarillo)",
+        "quantity": 2,
+        "type": "Motor DC con caja reductora",
+        "voltage_range": "3V - 6V DC"
+      },
+      {
+        "item": "Rueda de Goma",
+        "quantity": 2,
+        "position": "Laterales central-trasero"
+      },
+      {
+        "item": "Rueda Loca (Caster Wheel)",
+        "quantity": 1,
+        "position": "Parte posterior inferior (apoyo multidireccional)"
+      }
+    ]
+  },
+  "wiring_connections": {
+    "motors": {
+      "left_motor": {
+        "positive": "Cable rojo conectado al terminal positivo del panel / módulo",
+        "negative": "Cable negro conectado al terminal negativo del panel / módulo"
+      },
+      "right_motor": {
+        "positive": "Cable rojo conectado al terminal positivo del panel / módulo",
+        "negative": "Cable negro conectado al terminal negativo del panel / módulo"
+      }
+    }
+  }
+}
