@@ -11,7 +11,8 @@ https://github.com/user-attachments/files/32935313/Informe_Tecnico_Carro_Robot_S
 ## Material y herramientas utilizadas
 
 ## Imagen
-<img width="1200" height="1600" alt="WhatsApp Image 2026-10-01 at 1 00 36 PM" src="https://github.com/user-attachments/assets/7e21676e-5b8d-4096-9dc5-3a5d29a07cf9" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-10-01 at 1 00 36 PM" src="https://github.com/user-attachments/assets/7e21676e-5b8d-4096-9dc5-3a5d29a07cf9" /><img width="1600" height="1200" alt="WhatsApp Image 2026-10-01 at 1 00 34 PM" src="https://github.com/user-attachments/assets/d5748c4e-4155-41d0-a947-834ff6da53b0" />
+
 
 ## Video
 https://youtube.com/shorts/HORqFrCoJis?si=bxBl6SiE0zqfZizh
