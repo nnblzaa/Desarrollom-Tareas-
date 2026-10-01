@@ -14,6 +14,6 @@ https://github.com/user-attachments/files/32935313/Informe_Tecnico_Carro_Robot_S
 <img width="1200" height="1600" alt="WhatsApp Image 2026-10-01 at 1 00 36 PM" src="https://github.com/user-attachments/assets/7e21676e-5b8d-4096-9dc5-3a5d29a07cf9" />
 
 ## Video
-
+https://youtube.com/shorts/HORqFrCoJis?si=bxBl6SiE0zqfZizh
  ## Codigo
 [main.txt](./Código/main.txt)
