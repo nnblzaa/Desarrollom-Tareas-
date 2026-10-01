@@ -9,9 +9,9 @@ Proyecto de un vehículo autónomo/controlado alimentado por energía solar a tr
 
 
 ## Material y herramientas utilizadas
-Arduino UNO (o compatible) Sensor DHT11 LED Resistencia 220 Ω Resistencia 10 kΩ Protoboard Cables jumper Cantidad 1 1 Uso Controlador del sistema Mide temperatura y humedad 1 1 1 Indicador de temperatura alta Limita la corriente del LED Pull-up del DHT11 (solo si es el sensor suelto de 4 patas) 1 Varios Cable USB
+
 ## Imagen
-<img width="739" height="1600" alt="Arduino 1 1" src="https://github.com/user-attachments/assets/fd804af7-9b21-481c-828f-9c04bc2ba60f" /> 
+![Uploading IMG_3356.jpeg…]()
 
 
  ## Codigo
