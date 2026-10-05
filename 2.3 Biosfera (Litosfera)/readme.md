@@ -36,7 +36,7 @@ Además, el programa permite visualizar las lecturas obtenidas mediante el Monit
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/33efd67c-e7c6-432b-b782-de257aaeb814" />
 
 ## Video
-https://youtube.com/shorts/xpdc0fyvimA?si=_dpsDchNW70hRLil
+https://youtube.com/shorts/cLo0it6zps4?si=KkZaWTzWJn11c-rX
 
 ## Codigo
 [main.txt](./Codigo/main.txt)
