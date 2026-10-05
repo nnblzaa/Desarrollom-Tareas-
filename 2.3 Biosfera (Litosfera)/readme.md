@@ -18,7 +18,7 @@ Además, el programa permite visualizar las lecturas obtenidas mediante el Monit
 * Familiarizarse con el armado de circuitos en una protoboard.
 * Relacionar la programación con una aplicación práctica de automatización y monitoreo, como el cuidado de plantas
 ## Resultados
-(https://github.com/user-attachments/files/33071950/Biosfera_Litosfera_Monitor_Humedad.pdf)[readme.md](./Resultados/[main.txt](./Resultados/)
+2.3 Biosfera (Litosfera)/Resultados
 
 ## Material y herramientas utilizadas
 1. Arduino Uno
