@@ -1,1 +1,26 @@
+// === CÓDIGO PARA SENSOR DE HUMEDAD DE SUELO (LED ENCIENDE AL ESTAR SECO) ===
 
+const int PIN_SENSOR = A0;  // Pin analógico del sensor
+const int PIN_LED = 13;     // Pin digital del LED
+
+// Umbral para determinar tierra seca:
+// Con este sensor, un valor analógico ALTO significa SECO (cerca de 1023)
+// y un valor BAJO significa HÚMEDO (alrededor de 250 - 500).
+int UMBRAL_SECO = 650; // Ajusta este valor si deseas cambiar la sensibilidad
+
+void setup() {
+  pinMode(PIN_LED, OUTPUT); // Configura el pin del LED como salida
+  Serial.begin(9600);       // Monitor Serie a 9600 baudios
+  Serial.println("--- Sistema de Monitoreo de Humedad Iniciado ---");
+}
+
+void loop() {
+  // Lectura analógica directa del sensor (rango de 0 a 1023)
+  int lectura = analogRead(PIN_SENSOR);
+  
+  // Conversión aproximada a porcentaje de humedad (0% seco, 100% muy mojado)
+  int porcentajeHumedad = map(lectura, 1023, 250, 0, 100);
+  porcentajeHumedad = constrain(porcentajeHumedad, 0, 100);
+
+  // Mostrar datos en el Monitor Serie
+  Serial.print("Lectura raw
