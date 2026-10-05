@@ -1,6 +1,8 @@
 # Nombre del proyecto
 Biosfera (Litosfera
-## Descripción                                                                                                                            La actividad consiste en construir un sistema de monitoreo de humedad del suelo mediante Arduino. El sensor se introduce en la tierra para medir su nivel de humedad y enviar una señal analógica al Arduino.
+## Descripción                                                                                                                            
+
+La actividad consiste en construir un sistema de monitoreo de humedad del suelo mediante Arduino. El sensor se introduce en la tierra para medir su nivel de humedad y enviar una señal analógica al Arduino.
 
 El programa instalado en el Arduino realiza la lectura del sensor mediante el pin analógico A0. De acuerdo con el valor obtenido, el sistema determina si el suelo se encuentra suficientemente húmedo o si está seco. Cuando se alcanza el nivel establecido como suelo seco, se utiliza un LED conectado al pin digital 13 como indicador.
 
