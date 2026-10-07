@@ -1,40 +1,37 @@
 ## Nombre del proyecto
-Biosfera (Litosfera)
+Biodiversidad
 ## Descripción                                                                                                                
-La actividad consiste en construir un sistema de monitoreo de humedad del suelo mediante Arduino. El sensor se introduce en la tierra para medir su nivel de humedad y enviar una señal analógica al Arduino.
-
-El programa instalado en el Arduino realiza la lectura del sensor mediante el pin analógico A0. De acuerdo con el valor obtenido, el sistema determina si el suelo se encuentra suficientemente húmedo o si está seco. Cuando se alcanza el nivel establecido como suelo seco, se utiliza un LED conectado al pin digital 13 como indicador.
-
-Además, el programa permite visualizar las lecturas obtenidas mediante el Monitor Serie del Arduino IDE, facilitando la observación de los cambios de humedad en tiempo real.                                                     
+La actividad consistió en construir un asistente automático sobre biodiversidad que funciona
+dentro de Telegram. Se trata del bot Biodiversidad_bot, conectado a un escenario de la
+plataforma Make llamado “Integration Telegram Bot, Make AI Agent”. La persona le envía una
+fotografía de una planta y el bot responde con la identificación de la especie y recomendaciones
+de cuidado                                                     
 ## Objetivos de aprendizaje
-* Comprender el funcionamiento de los sensores de humedad del suelo.
-* Aprender a conectar un sensor analógico a un Arduino Uno.
-* Aprender a utilizar las entradas analógicas y salidas digitales del Arduino.
-* Programar Arduino para leer e interpretar datos de un sensor.
-* Comprender cómo establecer un umbral de humedad para activar una respuesta.
-* Controlar un LED mediante programación como indicador del estado del suelo.
-* Utilizar el Monitor Serie para observar y analizar los datos obtenidos.
-* Familiarizarse con el armado de circuitos en una protoboard.
-* Relacionar la programación con una aplicación práctica de automatización y monitoreo, como el cuidado de plantas
+Objetivo general. Aplicar herramientas de automatización e inteligencia artificial para diseñar y
+poner en funcionamiento un flujo que identifique plantas a partir de fotografías y entregue
+recomendaciones de cuidado, reconociendo la importancia de la biodiversidad.
+Con esta actividad se aprendió a:
+l Conectar un bot de Telegram con la plataforma Make para recibir y responder mensajes
+automáticamente.
+l Usar un Router para tomar decisiones dentro del flujo según el tipo de mensaje (con o sin
+foto).
+l Descargar archivos enviados por el usuario y pasarlos a un agente de IA para su análisis.
+l Interpretar la respuesta de la IA y comprobar que sea clara y útil para quien la recibe.
+l Relacionar la tecnología con el estudio de la biodiversidad y el cuidado de las especies
+vegetales
 ## Resultados
-[PDF](https://github.com/nnblzaa/Desarrollom-Tareas-/blob/main/2.3%20Biosfera%20(Litosfera)/Resultados/Biosfera_Litosfera_Monitor_Humedad%20(1).pdf)
+[PDF]()
 
 ## Material y herramientas utilizadas
-1. Arduino Uno
-2. Sensor de humedad de suelo (sonda metálica + módulo sensor)
-3. Protoboard
-4. LED rojo
-5. Resistencia para proteger el LED
-6. Cables jumper macho-macho
-7. Cable USB para conectar el Arduino a la computadora
-8. Vaso/recipiente con tierra
-9. Tierra o sustrato
-10. Computadora portátil
-11. Arduino IDE para programar y monitorear el sensor
+ Make (plataforma de automatización en línea) para crear el escenario con sus módulos.
+l Telegram y el bot Biodiversidad_bot como medio de comunicación con el usuario.
+l Make AI Agent como agente de inteligencia artificial que analiza las imágenes.
+l Módulos de Make: Telegram Bot, Router y descarga de archivos.
+l Fotografía de una planta (Pilea microphylla) usada como prueba del funcionamiento.
+l Computadora con Windows, navegador web (Microsoft Edge) y conexión a internet
 ## Imagen
 <img width="5712" height="4284" alt="image" src="https://github.com/user-attachments/assets/1aeab424-3e16-417d-a555-cd35cfda0484" />
-<img width="585" height="1266" alt="image" src="https://github.com/user-attachments/assets/118b2841-3a66-4a71-bbac-b64f99757776" />
-
+<img width="1170" height="791" alt="image" src="https://github.com/user-attachments/assets/b5e5106a-ca54-4a39-9730-8d2da5de9e06" />
 
 
 
