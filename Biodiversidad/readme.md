@@ -32,6 +32,9 @@ Además, el programa permite visualizar las lecturas obtenidas mediante el Monit
 10. Computadora portátil
 11. Arduino IDE para programar y monitorear el sensor
 ## Imagen
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/e88632da-4ec0-4518-b92b-a693edbef230" />
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/33efd67c-e7c6-432b-b782-de257aaeb814" />
+<img width="5712" height="4284" alt="image" src="https://github.com/user-attachments/assets/1aeab424-3e16-417d-a555-cd35cfda0484" />
+<img width="585" height="1266" alt="image" src="https://github.com/user-attachments/assets/118b2841-3a66-4a71-bbac-b64f99757776" />
+
+
+
 
