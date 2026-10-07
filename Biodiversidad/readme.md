@@ -33,5 +33,11 @@ l Computadora con Windows, navegador web (Microsoft Edge) y conexión a internet
 <img width="5712" height="4284" alt="image" src="https://github.com/user-attachments/assets/1aeab424-3e16-417d-a555-cd35cfda0484" />
 <img width="1170" height="791" alt="image" src="https://github.com/user-attachments/assets/b5e5106a-ca54-4a39-9730-8d2da5de9e06" />
 
+## Video
+[Video](https://youtube.com/shorts/5rdomOjkCKs?si=HP5nt_CLbh-SxsHx)
+
+## Codigo
+[main.txt](./codigo/main.txt)
+
 
 
