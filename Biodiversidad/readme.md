@@ -20,7 +20,7 @@ l Interpretar la respuesta de la IA y comprobar que sea clara y útil para quien
 l Relacionar la tecnología con el estudio de la biodiversidad y el cuidado de las especies
 vegetales
 ## Resultados
-[PDF]()
+[PDF](https://github.com/nnblzaa/Desarrollom-Tareas-/upload/main/Biodiversidad/Resultados)
 
 ## Material y herramientas utilizadas
  Make (plataforma de automatización en línea) para crear el escenario con sus módulos.
