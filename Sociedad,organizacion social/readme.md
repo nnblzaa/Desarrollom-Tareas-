@@ -28,7 +28,7 @@ Dispositivo de Interacción: Cliente móvil o web de Telegram
 
 
 
-##Video
-
+## Video
+[video](https://youtube.com/shorts/WPUMjyucmNs?si=5BmVP-CgdaWmOOXY)
 
 
