@@ -20,7 +20,7 @@ IA Generativa: Claude (asistente de maquetación web)
 
 ## Resultados
 
-[PDF]()
+[PDF](https://github.com/nnblzaa/Desarrollom-Tareas-/blob/main/P%C3%A1gina%20web%20%22IDH%20de%20mi%20estado/resultados/Resultados_Practica_3.2_IDH.pdf)
 
 
 ## Herramientas de trabajo
@@ -39,3 +39,6 @@ Consulta el archivo de conocimiento IDH_entidades.pdf y redacta la
 respuesta.
 Devuelve la respuesta en texto plano a la página.
 Publicación de la página web en el repositorio de prácticas
+
+
+## Imagenes
