@@ -17,3 +17,7 @@ Fuente de Datos: Informe oficial del PNUD ("Índice de Desarrollo Humano para la
 Lenguajes y Tecnologías Web: HTML5, CSS3 y JavaScript (API Fetch)
 Servicio de Hosting: GitHub Pages
 IA Generativa: Claude (asistente de maquetación web)
+
+## Resultados
+
+[PDF]()
