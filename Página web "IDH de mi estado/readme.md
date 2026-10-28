@@ -47,5 +47,11 @@ Publicación de la página web en el repositorio de prácticas
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/7f79b662-6951-42b9-8217-c2ab7bbdbdda" />
 
 
+## Codigo
+
+[main.txt](./codigo/main.txt)
 
 
+## Video
+
+[video](https://youtube.com/shorts/WPUMjyucmNs?si=5BmVP-CgdaWmOOXY)
