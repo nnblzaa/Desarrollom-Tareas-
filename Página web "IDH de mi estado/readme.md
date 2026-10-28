@@ -43,8 +43,8 @@ Publicación de la página web en el repositorio de prácticas
 
 ## Imagenes
 
-(<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/20bf7c36-36fe-4629-a2c5-504e7d0f939d" />)
-(<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/7f79b662-6951-42b9-8217-c2ab7bbdbdda" />)
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/20bf7c36-36fe-4629-a2c5-504e7d0f939d" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/7f79b662-6951-42b9-8217-c2ab7bbdbdda" />
 
 
 
