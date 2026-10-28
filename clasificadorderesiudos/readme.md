@@ -17,4 +17,13 @@ Agente de IA con Visión: Make AI Agent (Visión por computadora)
 Gestión de Archivos: Módulo Download a File de Telegram Bot (con función last())
 Dispositivo de Captura: Teléfono inteligente con cámara y aplicación de Telegram
 Muestras de Evaluación: 10 residuos domésticos/escolares (PET, latas, unicel, tetrapak, cáscaras, pilas, etc.)
+##Resultados
+[https://github.com/nnblzaa/Desarrollom-Tareas-/blob/main/clasificadorderesiudos/resultados/Practica_3.3_Clasificador_Residuos_Nicolas_Niebla.pdf]
+
 ## Código
+
+
+
+
+
+
