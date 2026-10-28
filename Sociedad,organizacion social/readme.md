@@ -11,11 +11,11 @@ Integrar y mapear datos dinámicos (folio, fecha, usuario, nombre, reporte, esta
 Implementar enrutadores (Router) y filtros condicionales para discriminar comandos de control (como /start) del registro directo de reportes
 Analizar el valor de la participación ciudadana formal, la transparencia institucional y la importancia del uso de folios en la gestión ambiental
 
-##Resultados
+## Resultados
 [PDF]()
 
 
-##Material y herramientas utilizadas
+## Material y herramientas utilizadas
 Plataforma de Automatización: Make.com (Zona horaria America/Mazatlan)
 Bot de Mensajería: Telegram Bot API (creado mediante @BotFather)
 Base de Datos / Registro: Google Sheets (Hoja Buzon_Ciudadano_Equipo#)
@@ -24,7 +24,7 @@ Dispositivo de Interacción: Cliente móvil o web de Telegram
 
 
 
-##Código
+## Código
 
 
 
