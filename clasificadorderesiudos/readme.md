@@ -34,6 +34,6 @@ Muestras de Evaluación: 10 residuos domésticos/escolares (PET, latas, unicel, 
 [main.txt](./codigo/main.txt)
 
 ## video
-
+[video](https://youtube.com/shorts/JHGnAV6pFiA?si=MubQpJxg8CUgTRdi)
 
 
