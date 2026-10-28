@@ -21,3 +21,21 @@ IA Generativa: Claude (asistente de maquetación web)
 ## Resultados
 
 [PDF]()
+
+
+## Herramientas de trabajo
+
+Herramientas de trabajo
+Herramienta
+Uso en la práctica
+IA generativa (Claude)
+Make – Webhooks
+Generación del archivo index.html de la página web.
+Recibe la entidad seleccionada desde la página (Custom webhook).
+Make AI Agent
+Make – Webhook Response
+GitHub Pages
+Consulta el archivo de conocimiento IDH_entidades.pdf y redacta la
+respuesta.
+Devuelve la respuesta en texto plano a la página.
+Publicación de la página web en el repositorio de prácticas
