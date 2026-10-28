@@ -12,7 +12,7 @@ Implementar enrutadores (Router) y filtros condicionales para discriminar comand
 Analizar el valor de la participación ciudadana formal, la transparencia institucional y la importancia del uso de folios en la gestión ambiental
 
 ## Resultados
-[PDF]()
+[PDF](https://github.com/nnblzaa/Desarrollom-Tareas-/blob/main/Sociedad%2Corganizacion%20social/Resultados/Practica_3.1_Buzon_Ciudadano_Nicolas_Niebla_Barraza.pdf)
 
 
 ## Material y herramientas utilizadas
