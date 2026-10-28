@@ -22,6 +22,12 @@ Base de Datos / Registro: Google Sheets (Hoja Buzon_Ciudadano_Equipo#)
 Módulos de Make: Watch Updates, Set Variable, Google Sheets (Add a Row), Router y Send a Text Message
 Dispositivo de Interacción: Cliente móvil o web de Telegram
 
+## Imágenes
+<img width="1600" height="690" alt="image" src="https://github.com/user-attachments/assets/632b7dfe-96b7-4f3b-9f1d-04c1d3027faf" />
+
+<img width="1565" height="723" alt="image" src="https://github.com/user-attachments/assets/e1145c6d-80f0-4b19-9b07-6890f0d697b1" />
+
+
 
 
 ## Código
