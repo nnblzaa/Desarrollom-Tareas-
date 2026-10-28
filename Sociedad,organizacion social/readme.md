@@ -31,6 +31,7 @@ Dispositivo de Interacción: Cliente móvil o web de Telegram
 
 
 ## Código
+[main.txt](./codigo/main.txt)
 
 
 
