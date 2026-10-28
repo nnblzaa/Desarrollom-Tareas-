@@ -20,6 +20,7 @@ Muestras de Evaluación: 10 residuos domésticos/escolares (PET, latas, unicel, 
 
 
 ##Resultados
+
 (resultados)[https://github.com/nnblzaa/Desarrollom-Tareas-/blob/main/clasificadorderesiudos/resultados/Practica_3.3_Clasificador_Residuos_Nicolas_Niebla.pdf]
 
 ## Código
