@@ -39,5 +39,3 @@ Además, el programa permite visualizar las lecturas obtenidas mediante el Monit
 [Video](https://youtube.com/shorts/cLo0it6zps4?si=KkZaWTzWJn11c-rX)
 
 ## Codigo
-[main.txt](./Codigo/main.txt)
-
