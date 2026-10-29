@@ -23,6 +23,11 @@ l Computadora con Windows, navegador web (Microsoft Edge) y conexión a internet
 
 
 ## Imagenes
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b8ff4e36-016e-4160-9c77-ca1da0b64897" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/245245ac-72d9-4e43-9ead-48e793e03947" />
+
+
+
 
 ## Codigo
 
