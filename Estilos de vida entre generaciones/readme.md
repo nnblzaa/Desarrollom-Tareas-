@@ -31,6 +31,7 @@ l Computadora con Windows, navegador web (Microsoft Edge) y conexión a internet
 
 ## Codigo
 
+[main.txt](./codigo/main.txt)
 
 
 ## Video
@@ -38,4 +39,4 @@ l Computadora con Windows, navegador web (Microsoft Edge) y conexión a internet
 
 
 
-##
+
