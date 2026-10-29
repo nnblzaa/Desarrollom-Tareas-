@@ -12,7 +12,7 @@ l Publicar una página web en GitHub Pages y comprobar que funcione con datos re
 l Interpretar el análisis de la IA con criterio propio, identificando con qué conclusiones se está de acuerdo y qué dejó fuera.
 l Relacionar los hábitos de consumo de cada generación con la sustentabilidad, la Carta de la Tierra y la Agenda 21.
 ## Resultados
-[PDF]()
+[PDF](https://github.com/nnblzaa/Desarrollom-Tareas-/blob/main/Estilos%20de%20vida%20entre%20generaciones/Resultados/Informe_Practica_3.4_Nicolas_Niebla_Barraza%20(1).pdf)
 ## Material y herramientas utilizadas
 l Make (plataforma de automatización en línea) para crear el escenario con sus módulos.
 l IA generativa (versión gratuita) para generar el archivo index.html de la página.
