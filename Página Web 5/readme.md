@@ -28,6 +28,10 @@ Con esta actividad se aprendió a:
 
 
 ## Imagen
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/d0076ba5-70a6-4823-be24-3354b0c74491" />
+
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/995fef18-913b-451f-ac4c-36ba8133e4d8" />
+
 
 ## Video
 [Video](https://youtube.com/shorts/nC4UmBKlh_A?si=mkAhSuSitssCLLQA)
